@@ -1,2 +1,2 @@
 # nARPscanner
-Easy network ARP scanner
+Fast network ARP scanner
